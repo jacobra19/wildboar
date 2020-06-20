@@ -1,0 +1,19 @@
+{
+  "name": "wildboar",
+  "version": "1.0.0",
+  "description": "Boilerplate for frontend starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobra19/wildboar.git"
+  },
+  "author": "Yakov Rakhamimov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobra19/wildboar/issues"
+  },
+  "homepage": "https://github.com/jacobra19/wildboar#readme"
+}
