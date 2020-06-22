@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/jacobra19/wildboar/issues"
   },
-  "homepage": "https://github.com/jacobra19/wildboar#readme"
+  "homepage": "https://github.com/jacobra19/wildboar#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
+    "typescript": "^3.9.5",
+    "uuid": "^8.1.0"
+  }
 }
