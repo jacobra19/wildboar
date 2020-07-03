@@ -1,8 +1,11 @@
 {
   "name": "wildboar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Boilerplate for frontend starter project",
   "main": "index.js",
+  "bin": {
+    "wildboar": "./bin/wildboar.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
