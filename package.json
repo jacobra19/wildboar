@@ -29,10 +29,14 @@
     "html-webpack-plugin": "^4.3.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.0",
+    "style-loader": "^1.2.1",
+    "css-loader": "^3.6.0",
+    "file-loader": "^6.0.0"
   },
   "dependencies": {
     "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.15",
