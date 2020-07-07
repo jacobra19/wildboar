@@ -1,6 +1,6 @@
 {
   "name": "wildboar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Boilerplate for frontend starter project",
   "main": "index.js",
   "bin": {
